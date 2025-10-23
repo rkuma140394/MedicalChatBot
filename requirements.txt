@@ -3,3 +3,4 @@ sentance-transformer==2.2.2
 pinecone-client
 langchain==0.0.225
 flask
+pandas==2.2.2
